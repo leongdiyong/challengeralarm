@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "21633204556",
+    "firebase_url": "https://plumberpizza-883ef.firebaseio.com",
+    "project_id": "plumberpizza-883ef",
+    "storage_bucket": "plumberpizza-883ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:21633204556:android:d9acb8565948f2b5298fe9",
+        "android_client_info": {
+          "package_name": "student.inti.plumberpizza"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "21633204556-vkjpj49sda7dviemse00gp5r759n1of6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "student.inti.plumberpizza",
+            "certificate_hash": "a710929abb179c4142364db34b916bc94b8d33d2"
+          }
+        },
+        {
+          "client_id": "21633204556-vgcgaj43coqkp209bl2n03g297u88m4g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiQNkFmjox5f6hxrAd-_aWOeRVrG2740A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "21633204556-vgcgaj43coqkp209bl2n03g297u88m4g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
